@@ -1,7 +1,7 @@
-#React Chat
+# React Chat
 Chat for showing the conversation of user
 
-#Description
+# Description
 For creating the project was used React.js framework.
 This project is single page application and was bootstrapped
 with [Create React App](https://github.com/facebook/create-react-app).
@@ -10,12 +10,12 @@ in conversation can be either text or image. For creating the beautiful Message
 Chat Box design was used Bootsnipp.
 
 
-##Dependencies
+## Dependencies
 
 You will need:
 * Node.js
 
-##Installation
+## Installation
 * git clone https://github.com/JemmaHovhannisyan/react-chat.git
 * cd react-chat
 * npm install
